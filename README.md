@@ -8,17 +8,17 @@ Ucode project: develop a web-app like Ebay using REST principles.
 
 ### Implementation:
 - Front-End - HTML/CSS/JavaScript
-- Back-end - Java 15, Maven, SQL, Spring
+- Back-End - Java 14, Maven, SQL
 
 ### Technologies:
-- Java EE(JSP, Hibernate, Spring Framework, Spring Security)
-- Apache Tomcat 9, MySQL
+- Spring Framework, Spring Security
+- JSP, Hibernate, MySQL
 
 ### Usage:
 ```
 You need to have installed MySQL server
 
-1. git clone https://github.com/arni30/Ubay
+1. git clone https://github.com/trohalska/ubay
 2. apply maven wrapper, if necessary: mvn -N io.takari:maven:wrapper
 3. run mysql server: mysql.server start
 4. write mysql username and password in hibernate config file (Ubay/src/main/resources/hibernate.cfg.xml)
