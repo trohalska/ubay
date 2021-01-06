@@ -3,6 +3,9 @@
 ### Description:
 Ucode project: develop a web-app like Ebay using REST principles.
 
+### Developer team:
+ [Tetiana Rohalska](https://github.com/trohalska) | [Alexandr Arnopolin](https://github.com/arni30) | [Anastasiia Svyryda](https://github.com/NastiaSvyryda)
+
 ### Implementation:
 - Front-End - HTML/CSS/JavaScript
 - Back-end - Java 15, Maven, SQL, Spring
